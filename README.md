@@ -28,6 +28,7 @@ Output:-
 --- Welcome To Sarty ATM Machine ---
 
 Enter Account Number: 101
+
 Enter Pin: 1111
 Login Successful!
 
