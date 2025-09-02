@@ -30,6 +30,7 @@ Output:-
 Enter Account Number: 101
 
 Enter Pin: 1111
+
 Login Successful!
 
 --- ATM Menu ---
@@ -43,6 +44,7 @@ Withdraw Money
 Exit
 
 Enter Choice: 1
+
 Current Balance: 5000
 
 --- ATM Menu ---
@@ -54,8 +56,11 @@ Deposit Money
 Withdraw Money
 
 Exit
+
 Enter Choice: 2
+
 Enter amount to deposit: 1000
+
 Deposited! New Balance: 6000
 
 --- ATM Menu ---
@@ -67,7 +72,9 @@ Deposit Money
 Withdraw Money
 
 Exit
+
 Enter Choice: 4
+
 Thank you for using Sarty ATM!!
 
 
