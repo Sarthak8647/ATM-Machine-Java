@@ -26,6 +26,7 @@ It uses **arrays, loops, and switch-case statements** to perform basic banking o
 Output:-
 
 --- Welcome To Sarty ATM Machine ---
+
 Enter Account Number: 101
 Enter Pin: 1111
 Login Successful!
@@ -39,6 +40,7 @@ Deposit Money
 Withdraw Money
 
 Exit
+
 Enter Choice: 1
 Current Balance: 5000
 
