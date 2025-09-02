@@ -25,5 +25,6 @@ It uses **arrays, loops, and switch-case statements** to perform basic banking o
 
 Output:-
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-02 183319" src="https://github.com/user-attachments/assets/cb02105f-f0f3-46f6-b17a-a6c226388d82" />
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/0100a6de-a0e8-451c-be75-a88354dc9a30" />
+
 
